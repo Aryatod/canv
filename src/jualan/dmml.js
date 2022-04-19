@@ -1,0 +1,5 @@
+exports.ml = (prefix) => {
+return `*- DIAMOND MOBILE LEGEND*
+
+_HUBUNGI OWNER JIKA MAU MEMBELI DIAMOND MOBILE LEGEND_`
+}
